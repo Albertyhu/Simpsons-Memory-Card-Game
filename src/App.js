@@ -93,7 +93,7 @@ const App = () => {
                 <div id="titleContainer">
                     <div id = "mainTitle">The Simpsons Memory Card Game</div>
                 </div>
-                <div id = "instructionContainer"><p id = "instruction">Tbe object of this game is to click on each card once to score one point and to try get the highest score. If you click on a card more than once, you lose the game and the score resets to zero.</p></div>
+                <div id = "instructionContainer"><p id = "instruction">The object of this game is to click on each card once to score one point and to try get the highest score. If you click on a card more than once, you lose the game and the score resets to zero.</p></div>
                 <div id="scoreContainer">
                     <div id="score">Score: {score}</div>
                     <div id="bestScore">Best: {bestScore} </div>
