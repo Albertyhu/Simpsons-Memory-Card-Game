@@ -3,7 +3,7 @@ import { MyContext } from './components/contextItem.js';
 import { OrderImages } from './components/orderImages.js'; 
 import { Characters } from './components/createImageArray.js'; 
 import RenderGrid from './renderingFunctions/createGrid.js';
-import { PlayAudio } from './components/playLosingSound.js'; 
+import { PlayWinningSound, PlayLosingSound } from './components/playSound.js'; 
 
 const App = () => {
     var arr = Characters(); 
@@ -57,7 +57,7 @@ const App = () => {
         },
         clickWrongImg: () => {
             setScore(0);
-            PlayAudio(); 
+            PlayLosingSound(); 
             alert("You've clicked on that image already. Try again and git gud.")
         }, 
         checkClicked: (imageID) => {
@@ -73,6 +73,7 @@ const App = () => {
 
         }
         if (score >= gamePoint) {
+            PlayWinningSound();
             alert("Great job! You got all 12. Let's see if you can continue your streak.")
             setGamePoint(gamePoint * 2)
             context.reset(); 
