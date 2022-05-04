@@ -1,13 +1,13 @@
 {
   "main.css": "/Simpsons-Memory-Card-Game/static/css/main.c56c58a0.chunk.css",
-  "main.js": "/Simpsons-Memory-Card-Game/static/js/main.f95e5f9d.chunk.js",
-  "main.js.map": "/Simpsons-Memory-Card-Game/static/js/main.f95e5f9d.chunk.js.map",
+  "main.js": "/Simpsons-Memory-Card-Game/static/js/main.a07b21cf.chunk.js",
+  "main.js.map": "/Simpsons-Memory-Card-Game/static/js/main.a07b21cf.chunk.js.map",
   "runtime~main.js": "/Simpsons-Memory-Card-Game/static/js/runtime~main.8b968a23.js",
   "runtime~main.js.map": "/Simpsons-Memory-Card-Game/static/js/runtime~main.8b968a23.js.map",
-  "static/js/2.8863d3be.chunk.js": "/Simpsons-Memory-Card-Game/static/js/2.8863d3be.chunk.js",
-  "static/js/2.8863d3be.chunk.js.map": "/Simpsons-Memory-Card-Game/static/js/2.8863d3be.chunk.js.map",
+  "static/js/2.c4faa4df.chunk.js": "/Simpsons-Memory-Card-Game/static/js/2.c4faa4df.chunk.js",
+  "static/js/2.c4faa4df.chunk.js.map": "/Simpsons-Memory-Card-Game/static/js/2.c4faa4df.chunk.js.map",
   "index.html": "/Simpsons-Memory-Card-Game/index.html",
-  "precache-manifest.cad1053020865da9daca7756edbcd569.js": "/Simpsons-Memory-Card-Game/precache-manifest.cad1053020865da9daca7756edbcd569.js",
+  "precache-manifest.76b9a0721e1f07a39024d75b5d853dfe.js": "/Simpsons-Memory-Card-Game/precache-manifest.76b9a0721e1f07a39024d75b5d853dfe.js",
   "service-worker.js": "/Simpsons-Memory-Card-Game/service-worker.js",
   "static/css/main.c56c58a0.chunk.css.map": "/Simpsons-Memory-Card-Game/static/css/main.c56c58a0.chunk.css.map",
   "static/media/bart.jpg": "/Simpsons-Memory-Card-Game/static/media/bart.7babdaaf.jpg",
@@ -21,5 +21,6 @@
   "static/media/marge.jpg": "/Simpsons-Memory-Card-Game/static/media/marge.169a373d.jpg",
   "static/media/moe.jpg": "/Simpsons-Memory-Card-Game/static/media/moe.39b8866f.jpg",
   "static/media/ned.jpg": "/Simpsons-Memory-Card-Game/static/media/ned.ea4dd20c.jpg",
-  "static/media/skinner.jpg": "/Simpsons-Memory-Card-Game/static/media/skinner.6913a606.jpg"
+  "static/media/skinner.jpg": "/Simpsons-Memory-Card-Game/static/media/skinner.6913a606.jpg",
+  "static/media/the-simpsons-nelsons-haha.mp3": "/Simpsons-Memory-Card-Game/static/media/the-simpsons-nelsons-haha.7ed203e0.mp3"
 }

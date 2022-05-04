@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "c47f0257f56f91876412",
+    "revision": "c06746995dc518490e37",
     "url": "/Simpsons-Memory-Card-Game/static/css/main.c56c58a0.chunk.css"
   },
   {
-    "revision": "c47f0257f56f91876412",
-    "url": "/Simpsons-Memory-Card-Game/static/js/main.f95e5f9d.chunk.js"
+    "revision": "c06746995dc518490e37",
+    "url": "/Simpsons-Memory-Card-Game/static/js/main.a07b21cf.chunk.js"
   },
   {
     "revision": "c9926ce54039de4c8527",
     "url": "/Simpsons-Memory-Card-Game/static/js/runtime~main.8b968a23.js"
   },
   {
-    "revision": "218a88c56ab0cf365bc8",
-    "url": "/Simpsons-Memory-Card-Game/static/js/2.8863d3be.chunk.js"
+    "revision": "8c49877a104ae5930ef4",
+    "url": "/Simpsons-Memory-Card-Game/static/js/2.c4faa4df.chunk.js"
   },
   {
     "revision": "7babdaaf303909ba18c857a2dd6f8f3d",
@@ -64,7 +64,11 @@ self.__precacheManifest = [
     "url": "/Simpsons-Memory-Card-Game/static/media/moe.39b8866f.jpg"
   },
   {
-    "revision": "9fcecf87a480d3599885953ca6d70175",
+    "revision": "7ed203e0cb8219a68ee1d167ec6e859d",
+    "url": "/Simpsons-Memory-Card-Game/static/media/the-simpsons-nelsons-haha.7ed203e0.mp3"
+  },
+  {
+    "revision": "ac36e1f11431cbfd2f91bdf7e7489676",
     "url": "/Simpsons-Memory-Card-Game/index.html"
   }
 ];
