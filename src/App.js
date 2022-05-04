@@ -75,7 +75,7 @@ const App = () => {
         if (score >= gamePoint) {
             PlayWinningSound();
             alert("Great job! You got all 12. Let's see if you can continue your streak.")
-            setGamePoint(gamePoint * 2)
+            setGamePoint(gamePoint + 12)
             context.reset(); 
         }
     }, [score])
