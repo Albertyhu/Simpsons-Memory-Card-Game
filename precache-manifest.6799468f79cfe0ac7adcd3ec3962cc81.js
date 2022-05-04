@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "afe4d29a6161c77d2a4e",
+    "revision": "63834f9bec42d4226613",
     "url": "/Simpsons-Memory-Card-Game/static/css/main.c56c58a0.chunk.css"
   },
   {
-    "revision": "afe4d29a6161c77d2a4e",
-    "url": "/Simpsons-Memory-Card-Game/static/js/main.5aece48d.chunk.js"
+    "revision": "63834f9bec42d4226613",
+    "url": "/Simpsons-Memory-Card-Game/static/js/main.e27e8720.chunk.js"
   },
   {
     "revision": "c9926ce54039de4c8527",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/Simpsons-Memory-Card-Game/static/media/homer-woohoo.f09015e0.mp3"
   },
   {
-    "revision": "a563cddd3d5613b653ecb3d137c18d84",
+    "revision": "1a69b59f99781b4d6571873e5b7064cf",
     "url": "/Simpsons-Memory-Card-Game/index.html"
   }
 ];

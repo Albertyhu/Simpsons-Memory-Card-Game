@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Simpsons-Memory-Card-Game/precache-manifest.720780a1824b188b1f259a44f45b3f8f.js"
+  "/Simpsons-Memory-Card-Game/precache-manifest.6799468f79cfe0ac7adcd3ec3962cc81.js"
 );
 
 workbox.clientsClaim();
