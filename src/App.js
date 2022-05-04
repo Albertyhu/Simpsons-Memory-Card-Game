@@ -13,6 +13,7 @@ const App = () => {
     const [bestScore, setBestScore] = useState(0); 
     const [imageOrder, setImageOrder] = useState(imgOdr); 
     const [imageArray, setImageArray] = useState(arr); 
+    const [gamePoint, setGamePoint] = useState(12); 
 
     const context = {
         getImageOrder: () => {
@@ -71,8 +72,9 @@ const App = () => {
             setBestScore(score);
 
         }
-        if (score >= 12) {
+        if (score >= gamePoint) {
             alert("Great job! You got all 12. Let's see if you can continue your streak.")
+            setGamePoint(gamePoint * 2)
             context.reset(); 
         }
     }, [score])
