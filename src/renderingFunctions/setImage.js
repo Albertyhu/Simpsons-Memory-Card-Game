@@ -1,6 +1,3 @@
-import React from 'react'; 
-import { Collection } from '../components/imageObject.js';
-import { MyContext } from '../components/contextItem.js'; 
 
 export const SetImage = (cellLocation, image, ID, handle) => {
    

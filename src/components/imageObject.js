@@ -1,4 +1,4 @@
-import React from 'react';
+
 import bart from '../assets/bart.jpg';
 import burns from '../assets/burns.jpg';
 import grandpa from '../assets/grandpa.jpg';

@@ -1,6 +1,6 @@
-import React from 'react'; 
+
 import { Collection } from './imageObject.js';
-import { MyContext } from './contextItem.js'; 
+
 
 //This function is responsible for storing the images, their ID and their click information in state array
 export const Characters = () => {

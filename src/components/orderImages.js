@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react';
+
 import { randNumber } from './randGen.js'; 
 
 export const OrderImages = imageNumber => {

@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react'; 
-import { randNumber } from './components/randGen.js'; 
+
 import { MyContext } from './components/contextItem.js';
 import { OrderImages } from './components/orderImages.js'; 
-import { Collection } from './components/imageObject.js'; 
+
 import { Characters } from './components/createImageArray.js'; 
 import RenderGrid from './renderingFunctions/createGrid.js';
 
@@ -76,15 +76,6 @@ const App = () => {
             context.reset(); 
         }
     }, [score])
-
-    const resetImage = () => {
-        var tempArr = [...imageArray];
-        tempArr.forEach(item => {
-            item.clicked = false;
-        })
-        setImageArray([...tempArr]); 
-        console.log(imageArray)
-    }
 
     return (
         <MyContext.Provider value={context}>

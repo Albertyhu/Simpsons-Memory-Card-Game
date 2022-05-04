@@ -1,4 +1,4 @@
-import React from 'react'; 
+
 import { CellNumbers } from '../components/cellNumbers.js'; 
 import { SetImage } from './setImage.js';
 
