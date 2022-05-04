@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from 'react'; 
-
 import { MyContext } from './components/contextItem.js';
 import { OrderImages } from './components/orderImages.js'; 
-
 import { Characters } from './components/createImageArray.js'; 
 import RenderGrid from './renderingFunctions/createGrid.js';
+import { PlayAudio } from './components/playLosingSound.js'; 
 
 const App = () => {
     var arr = Characters(); 
@@ -58,6 +57,7 @@ const App = () => {
         },
         clickWrongImg: () => {
             setScore(0);
+            PlayAudio(); 
             alert("You've clicked on that image already. Try again and git gud.")
         }, 
         checkClicked: (imageID) => {
